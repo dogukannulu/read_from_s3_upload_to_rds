@@ -1,2 +1,3 @@
-# read_from_s3_upload_to_rds
-Upload the remote data into Amazon S3, read the data and upload to Amazon RDS MySQL
+# Information
+
+You can see all details in this [Medium article](https://medium.com/@dogukannulu/dbeaver-and-amazon-rds-mysql-connection-b4b4a345d885)
